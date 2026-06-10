@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Wedding Catering",
+    "slug": "wedding-catering",
+    "description": "Elegant multi-course menus, live counters, and premium service for your special day.",
+    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&q=80",
+      "https://images.unsplash.com/photo-1522673607200-847d5b9f3f48?w=800&q=80"
+    ],
+    "pricingNote": "Typically ₹400–₹1,200 per plate depending on menu and guest count.",
+    "details": "Includes welcome drinks, starters, main course, desserts, and service staff.",
+    "sortOrder": 1
+  },
+  {
+    "id": "2",
+    "name": "Corporate Events",
+    "slug": "corporate-events",
+    "description": "Professional catering for conferences, office parties, and business gatherings.",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80"
+    ],
+    "pricingNote": "Packages from ₹250–₹800 per person for breakfast, lunch, or high-tea.",
+    "details": "Box lunches, buffet setups, beverage stations, and on-time delivery.",
+    "sortOrder": 2
+  },
+  {
+    "id": "3",
+    "name": "Birthday & Parties",
+    "slug": "birthday-parties",
+    "description": "Fun, flavorful spreads for birthdays, anniversaries, and family celebrations.",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1558636508-e0db3814bd1f?w=800&q=80"
+    ],
+    "pricingNote": "Starting around ₹200–₹600 per plate for party menus.",
+    "details": "Kid-friendly options, themed menus, cakes, and snack counters available.",
+    "sortOrder": 3
+  },
+  {
+    "id": "4",
+    "name": "Festival & Traditional",
+    "slug": "festival-traditional",
+    "description": "Authentic regional spreads for Diwali, Eid, Christmas, and cultural festivals.",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880f44?w=800&q=80",
+    "images": [],
+    "pricingNote": "Custom quotes based on traditional menu complexity.",
+    "details": "Seasonal specialties, thali service, and traditional sweets included.",
+    "sortOrder": 4
+  }
+]

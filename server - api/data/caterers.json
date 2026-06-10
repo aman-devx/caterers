@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Spice Garden Catering",
+    "location": "Mumbai, Maharashtra",
+    "pricePerPlate": 450,
+    "cuisines": ["North Indian", "Mughlai", "Punjabi"],
+    "rating": 4.7
+  },
+  {
+    "id": "2",
+    "name": "Coastal Bites",
+    "location": "Goa",
+    "pricePerPlate": 380,
+    "cuisines": ["Goan", "Seafood", "Continental"],
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "name": "Royal Feast Events",
+    "location": "Delhi NCR",
+    "pricePerPlate": 650,
+    "cuisines": ["North Indian", "Chinese", "Continental"],
+    "rating": 4.8
+  },
+  {
+    "id": "4",
+    "name": "South Spice Kitchen",
+    "location": "Bangalore, Karnataka",
+    "pricePerPlate": 320,
+    "cuisines": ["South Indian", "Chettinad", "Kerala"],
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Heritage Thali Co.",
+    "location": "Ahmedabad, Gujarat",
+    "pricePerPlate": 280,
+    "cuisines": ["Gujarati", "Rajasthani", "Jain"],
+    "rating": 4.4
+  },
+  {
+    "id": "6",
+    "name": "Bengal Banquet House",
+    "location": "Kolkata, West Bengal",
+    "pricePerPlate": 350,
+    "cuisines": ["Bengali", "Mughlai", "Street Food"],
+    "rating": 4.3
+  },
+  {
+    "id": "7",
+    "name": "Elite Wedding Caterers",
+    "location": "Jaipur, Rajasthan",
+    "pricePerPlate": 850,
+    "cuisines": ["Rajasthani", "North Indian", "Italian"],
+    "rating": 4.9
+  },
+  {
+    "id": "8",
+    "name": "Green Leaf Vegan Catering",
+    "location": "Pune, Maharashtra",
+    "pricePerPlate": 300,
+    "cuisines": ["Vegan", "Organic", "Fusion"],
+    "rating": 4.2
+  }
+]
